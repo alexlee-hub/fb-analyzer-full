@@ -1,0 +1,7 @@
+{
+  "name": "fb-analyzer-full",
+  "version": "4.0.0",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
